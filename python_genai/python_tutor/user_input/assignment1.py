@@ -1,0 +1,6 @@
+roll = int(input("Enter the roll number: "))
+name = input("Enter the name: ")
+marks = float(input("Enter the marks: "))
+print("Roll number:", roll)
+print("Name:", name)
+print("Marks:", marks)
