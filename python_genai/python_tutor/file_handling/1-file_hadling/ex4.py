@@ -1,5 +1,5 @@
-a=10
-b=20
+a = 10
+b = 20
 print("Globals dict")
 print(globals())
 print()

@@ -1,0 +1,8 @@
+25
+Hello
+Hi
+100
+50
+Bye
+Welcome
+30
